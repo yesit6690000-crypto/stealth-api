@@ -1,0 +1,10 @@
+{
+  "name": "stealth-agent",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "playwright": "^1.43.0",
+    "@camoufox/playwright": "latest"
+  }
+}
